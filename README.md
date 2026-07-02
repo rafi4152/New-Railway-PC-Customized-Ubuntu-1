@@ -1,4 +1,7 @@
+❌❌❌ Problem ❌❌❌
+
 Ubuntu 24.04 XFCE + TightVNC + noVNC + Google Chrome
+
 
 A lightweight Ubuntu 24.04 LTS desktop running inside Docker with XFCE, TightVNC, noVNC and Google Chrome.
 
