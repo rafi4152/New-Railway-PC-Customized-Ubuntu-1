@@ -1,0 +1,43 @@
+Logs
+
+*.log
+
+Temporary files
+
+*.tmp
+*.temp
+
+Swap files
+
+*.swp
+*.swo
+
+Backup files
+
+*~
+
+VS Code
+
+.vscode/
+
+JetBrains IDEs
+
+.idea/
+
+Python
+
+pycache/
+*.pyc
+
+Environment files
+
+.env
+
+macOS
+
+.DS_Store
+
+Windows
+
+Thumbs.db
+desktop.ini
